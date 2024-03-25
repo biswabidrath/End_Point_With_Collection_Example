@@ -1,0 +1,6 @@
+C:\Users\brath3\OneDrive - Gainwell Technologies\Desktop\InRule Redesign\End_Point_With_Collection_Example\EndPointWithCollection\obj\Debug\EndPointWithCollection.csproj.AssemblyReference.cache
+C:\Users\brath3\OneDrive - Gainwell Technologies\Desktop\InRule Redesign\End_Point_With_Collection_Example\EndPointWithCollection\obj\Debug\EndPointWithCollection.csproj.CoreCompileInputs.cache
+C:\Users\brath3\OneDrive - Gainwell Technologies\Desktop\InRule Redesign\End_Point_With_Collection_Example\EndPointWithCollection\bin\Debug\EndPointWithCollection.dll
+C:\Users\brath3\OneDrive - Gainwell Technologies\Desktop\InRule Redesign\End_Point_With_Collection_Example\EndPointWithCollection\bin\Debug\EndPointWithCollection.pdb
+C:\Users\brath3\OneDrive - Gainwell Technologies\Desktop\InRule Redesign\End_Point_With_Collection_Example\EndPointWithCollection\obj\Debug\EndPointWithCollection.dll
+C:\Users\brath3\OneDrive - Gainwell Technologies\Desktop\InRule Redesign\End_Point_With_Collection_Example\EndPointWithCollection\obj\Debug\EndPointWithCollection.pdb
