@@ -1,0 +1,48 @@
+{
+  "SelectionCriteria": {
+    "BenefitPlans": [
+      {
+        "BenefitPlanChosen": "a",
+        "BenefitPlanId": "1",
+        "CreationTs": "2024-01-01T00:00:00",
+        "Instruction": "Add",
+        "IsActive": true,
+        "IsValid": true,
+        "MedicalSubtypeCodeId": "a",
+        "OperatorId": "a",
+        "Period": {
+          "Start": "2024-01-01T00:00:00",
+          "End": "2024-03-31T00:00:00"
+        }
+      }
+    ],
+    "PopCodes": [
+      {
+        "CreationTs": "2024-01-01T00:00:00",
+        "Instruction": "a",
+        "IsActive": true,
+        "IsValid": true,
+        "OperatorId": "a",
+        "Period": {
+          "Start": "2024-01-01T00:00:00",
+          "End": "2024-01-31T00:00:00"
+        },
+        "PopCodeId": "1",
+        "PopCodeType": "a"
+      },
+      {
+        "CreationTs": "2024-01-01T00:00:00",
+        "Instruction": "a",
+        "IsActive": true,
+        "IsValid": true,
+        "OperatorId": "a",
+        "Period": {
+          "Start": "2024-03-01T00:00:00",
+          "End": "2024-03-31T00:00:00"
+        },
+        "PopCodeId": "2",
+        "PopCodeType": "b"
+      }
+    ]
+  }
+}
